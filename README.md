@@ -7,7 +7,7 @@ Libreria per gestire input/output in modo molto semplice (tastiera/schermo/file)
 -------------------------------------------------------------------------
 
 *LETTURA DA TASTIERA*
-							(tipo di ritorno)
+						   ->  	(tipo di ritorno)
 
  LETTURA BOOLEAN:    LP.inBoolean() 			-> (boolean)
 
